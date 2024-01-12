@@ -37,8 +37,19 @@ const color = colorborate();
  */
 ```
 
+
+
 ## Features
 
 - **Easy to Use**: Generate color combinations with a single function call. Just import `colorborate` and get a set of colors instantly.
 - **Dynamic**: Continuously expanding color palette. You can add new colors to the library, providing a wide range of options for your projects.
 - **Developer-Friendly**: Created with developers in mind, making the process of choosing appealing color schemes simple and efficient.
+<br />
+<br />
+
+<img width="1512" alt="스크린샷 2024-01-12 오후 5 12 05" src="https://github.com/VVSOGI/Colorboration/assets/76682009/d903cf09-ecf3-4972-9e3e-68aba33becb8">
+<br />
+<img width="1512" alt="스크린샷 2024-01-12 오후 5 11 25" src="https://github.com/VVSOGI/Colorboration/assets/76682009/5feb3546-9d6d-4d86-892e-2931d2401d8c">
+<br />
+<img width="1512" alt="스크린샷 2024-01-12 오후 5 11 30" src="https://github.com/VVSOGI/Colorboration/assets/76682009/ee50a28d-6125-46b7-b9b4-eb34501eb699">
+
