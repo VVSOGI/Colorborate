@@ -52,3 +52,14 @@ const color = colorborate();
 <br />
 <img width="1512" alt="스크린샷 2024-01-12 오후 5 11 30" src="https://github.com/VVSOGI/Colorboration/assets/76682009/ee50a28d-6125-46b7-b9b4-eb34501eb699">
 
+## Keywords
+<div style="display:flex; gap: 8px; flex-wrap:wrap">
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">color</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">combination</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">random</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">match</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">palette</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">scheme</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">theme</span>
+<span style="padding:2px 4px; border:1px solid #eee; border-radius: 4px">colorboration</span>
+</div>
