@@ -45,7 +45,6 @@ const color = colorborate();
 - **Dynamic**: Continuously expanding color palette. You can add new colors to the library, providing a wide range of options for your projects.
 - **Developer-Friendly**: Created with developers in mind, making the process of choosing appealing color schemes simple and efficient.
 <br />
-<br />
 
 <img width="1512" alt="스크린샷 2024-01-12 오후 5 12 05" src="https://github.com/VVSOGI/Colorboration/assets/76682009/d903cf09-ecf3-4972-9e3e-68aba33becb8">
 <br />
