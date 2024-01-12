@@ -1,4 +1,4 @@
-import { MatchedColor } from "./types";
+import { MatchedColor } from "../types/types";
 
 const red = {
   first: "#EB3C3C",

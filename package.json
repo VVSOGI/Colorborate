@@ -1,11 +1,13 @@
 {
   "name": "colorborate",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Randomize color combinations.",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist",
     "src"

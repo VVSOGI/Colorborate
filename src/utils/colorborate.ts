@@ -1,5 +1,5 @@
 import colors from "./colors";
-import { MatchedColor } from "./types";
+import { MatchedColor } from "../types/types";
 
 function getRandomNumber(max: number) {
   return Math.floor(Math.random() * max) + 1;
