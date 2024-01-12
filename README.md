@@ -1,4 +1,4 @@
-# colorborate
+# Colorborate
 
 Color combination randomizer for developers who find choosing color combinations difficult. As a developer who often struggles with color schemes, I created `colorborate` to make this process easier and more enjoyable.
 
