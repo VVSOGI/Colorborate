@@ -1,4 +1,4 @@
-# colorborate
+# Colorborate
 
 Welcome to `colorborate`, the vibrant oasis for developers who often find themselves lost in the monochromatic maze of color decision-making. This library isn't just a tool; it's your creative companion in the art of web and app design, bringing a splash of color to the often greyscale world of coding.
 
