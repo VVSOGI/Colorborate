@@ -8,7 +8,7 @@ Born from the palette of a developer who understands the struggle of selecting t
 
 `colorborate` is not just about receiving; it's about contributing. Join our ever-growing community, where you can add your favorite colors and share your unique taste with the world. Every added color enhances the diversity and richness of combinations, making `colorborate` an ever-evolving tapestry of hues and shades.
 
-[Actually written by GPT. LOOOL]
+~~[Actually written by GPT. LOOOL]~~
 
 ## Installation
 
