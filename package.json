@@ -1,0 +1,24 @@
+{
+  "name": "colorboration",
+  "version": "1.0.0",
+  "description": "Randomize color combinations.",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "combination",
+    "random",
+    "match",
+    "palette",
+    "scheme",
+    "theme",
+    "colorboration"
+  ],
+  "author": "Benny (Kim Wooseok)",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
